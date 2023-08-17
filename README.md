@@ -7,3 +7,5 @@ Built a MERN Finance Dashboard App: Engineered client-side interface with MongoD
 **Frontend:** Material UI, TypeScript, Vite, Recharts, Redux Toolkit, RTK Query, Heroicons, React Router
 
 **Backend:** NodeJS, ExpressJS, Mongoose, Regression-JS
+
+Followed Youtube tutorial>>>https://www.youtube.com/watch?v=uoJ0Tv-BFcQ
