@@ -1,1 +1,1 @@
-# findash-app
+# Financial Dashboard App
